@@ -23,5 +23,5 @@ Detalhe que realizei varias tentativas, nao sei se esta correto
 
 ## Observação
 
-Todas as codigos possuem comentarios nos codigos(documentação) em varias linhas explicando a função daquele codigo
+Todas as questoes possuem comentarios nos codigos(documentação) em varias linhas explicando a função daquele codigo
 para auxiliar a entender o programa
