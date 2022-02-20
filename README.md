@@ -23,5 +23,9 @@ Detalhe que realizei varias tentativas, nao sei se esta correto
 
 ## Observação
 
-Todas as questoes possuem comentarios nos codigos(documentação) em varias linhas explicando a função daquele codigo
+1 - Todas as questoes possuem comentarios nos codigos(documentação) em varias linhas explicando a função daquele codigo
 para auxiliar a entender o programa
+
+2 - Os desafios aqui no github estao em src > Atividades > Questao01
+                                        src > Atividades02 > Questao02
+                                        src > Atividades03 > Questao03
